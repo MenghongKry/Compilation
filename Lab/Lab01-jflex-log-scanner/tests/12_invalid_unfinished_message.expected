@@ -1,0 +1,9 @@
+LINE:COL TYPE       LEXEME
+  1:1   LBRACKET   [
+  1:2   LEVEL      ERROR
+  1:7   RBRACKET   ]
+  1:9   FIELD      message
+  1:16  ASSIGN     =
+  1:17  ERROR      unfinished message "Disk full (missing closing ")
+  2:1   EOF
+5 token(s), 1 error(s)

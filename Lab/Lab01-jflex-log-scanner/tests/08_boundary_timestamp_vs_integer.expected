@@ -1,0 +1,7 @@
+LINE:COL TYPE       LEXEME
+  1:1   FIELD      year
+  1:5   ASSIGN     =
+  1:6   INTEGER    2026
+  1:11  TIMESTAMP  2026-11-02 23:59:59
+  2:1   EOF
+4 token(s), 0 error(s)

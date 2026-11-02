@@ -1,0 +1,12 @@
+LINE:COL TYPE       LEXEME
+  1:1   LBRACKET   [
+  1:2   LEVEL      INFO
+  1:6   RBRACKET   ]
+  1:8   FIELD      user
+  1:12  ERROR      unexpected character '@'
+  1:13  FIELD      host
+  1:18  FIELD      code
+  1:22  ASSIGN     =
+  1:23  INTEGER    200
+  2:1   EOF
+8 token(s), 1 error(s)

@@ -1,0 +1,13 @@
+LINE:COL TYPE       LEXEME
+  1:1   TIMESTAMP  2026-11-02 08:15:00
+  1:21  LBRACKET   [
+  1:22  LEVEL      WARN
+  1:26  RBRACKET   ]
+  1:28  FIELD      disk
+  1:32  ASSIGN     =
+  1:33  INTEGER    91
+  1:36  FIELD      message
+  1:43  ASSIGN     =
+  1:44  MESSAGE    "Disk almost full"
+  2:1   EOF
+10 token(s), 0 error(s)

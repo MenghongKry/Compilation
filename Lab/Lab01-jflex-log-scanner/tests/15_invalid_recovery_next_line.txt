@@ -1,0 +1,2 @@
+[WARN] message="oops
+[INFO] code=200 message="ok"

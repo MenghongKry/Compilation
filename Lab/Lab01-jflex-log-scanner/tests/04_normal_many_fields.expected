@@ -1,0 +1,18 @@
+LINE:COL TYPE       LEXEME
+  1:1   LBRACKET   [
+  1:2   LEVEL      ERROR
+  1:7   RBRACKET   ]
+  1:9   FIELD      code
+  1:13  ASSIGN     =
+  1:14  INTEGER    500
+  1:18  FIELD      retry
+  1:23  ASSIGN     =
+  1:24  INTEGER    3
+  1:26  FIELD      user
+  1:30  ASSIGN     =
+  1:31  MESSAGE    "hong"
+  1:38  FIELD      message
+  1:45  ASSIGN     =
+  1:46  MESSAGE    "Server down"
+  2:1   EOF
+15 token(s), 0 error(s)

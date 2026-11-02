@@ -1,0 +1,9 @@
+LINE:COL TYPE       LEXEME
+  1:1   LBRACKET   [
+  1:2   LEVEL      WARN
+  1:6   RBRACKET   ]
+  1:8   FIELD      message
+  1:15  ASSIGN     =
+  1:16  MESSAGE    "[x] a=1 @home #2"
+  2:1   EOF
+6 token(s), 0 error(s)

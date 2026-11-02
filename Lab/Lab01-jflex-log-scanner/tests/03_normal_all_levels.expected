@@ -1,0 +1,27 @@
+LINE:COL TYPE       LEXEME
+  1:1   LBRACKET   [
+  1:2   LEVEL      DEBUG
+  1:7   RBRACKET   ]
+  1:9   FIELD      step
+  1:13  ASSIGN     =
+  1:14  INTEGER    1
+  2:1   LBRACKET   [
+  2:2   LEVEL      INFO
+  2:6   RBRACKET   ]
+  2:8   FIELD      step
+  2:12  ASSIGN     =
+  2:13  INTEGER    2
+  3:1   LBRACKET   [
+  3:2   LEVEL      WARN
+  3:6   RBRACKET   ]
+  3:8   FIELD      step
+  3:12  ASSIGN     =
+  3:13  INTEGER    3
+  4:1   LBRACKET   [
+  4:2   LEVEL      ERROR
+  4:7   RBRACKET   ]
+  4:9   FIELD      step
+  4:13  ASSIGN     =
+  4:14  INTEGER    4
+  5:1   EOF
+24 token(s), 0 error(s)

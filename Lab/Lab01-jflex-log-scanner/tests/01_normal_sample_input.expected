@@ -1,0 +1,12 @@
+LINE:COL TYPE       LEXEME
+  1:1   LBRACKET   [
+  1:2   LEVEL      INFO
+  1:6   RBRACKET   ]
+  1:8   FIELD      code
+  1:12  ASSIGN     =
+  1:13  INTEGER    200
+  1:17  FIELD      message
+  1:24  ASSIGN     =
+  1:25  MESSAGE    "Ready"
+  2:1   EOF
+9 token(s), 0 error(s)

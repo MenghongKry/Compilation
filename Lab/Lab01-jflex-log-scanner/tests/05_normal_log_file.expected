@@ -1,0 +1,24 @@
+LINE:COL TYPE       LEXEME
+  1:1   TIMESTAMP  2026-11-02 08:00:00
+  1:21  LBRACKET   [
+  1:22  LEVEL      INFO
+  1:26  RBRACKET   ]
+  1:28  FIELD      message
+  1:35  ASSIGN     =
+  1:36  MESSAGE    "Start"
+  2:1   TIMESTAMP  2026-11-02 08:00:05
+  2:21  LBRACKET   [
+  2:22  LEVEL      DEBUG
+  2:27  RBRACKET   ]
+  2:29  FIELD      port
+  2:33  ASSIGN     =
+  2:34  INTEGER    8080
+  3:1   TIMESTAMP  2026-11-02 08:01:00
+  3:21  LBRACKET   [
+  3:22  LEVEL      INFO
+  3:26  RBRACKET   ]
+  3:28  FIELD      message
+  3:35  ASSIGN     =
+  3:36  MESSAGE    "Stop"
+  4:1   EOF
+21 token(s), 0 error(s)

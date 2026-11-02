@@ -1,0 +1,10 @@
+LINE:COL TYPE       LEXEME
+  1:1   ERROR      incomplete timestamp '2026-11-02' (expected ' hh:mm:ss' after the date)
+  1:12  LBRACKET   [
+  1:13  LEVEL      INFO
+  1:17  RBRACKET   ]
+  1:19  FIELD      code
+  1:23  ASSIGN     =
+  1:24  INTEGER    1
+  2:1   EOF
+6 token(s), 1 error(s)

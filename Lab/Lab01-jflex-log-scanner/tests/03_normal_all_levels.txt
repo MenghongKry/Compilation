@@ -1,0 +1,4 @@
+[DEBUG] step=1
+[INFO] step=2
+[WARN] step=3
+[ERROR] step=4
